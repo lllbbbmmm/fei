@@ -1,4 +1,4 @@
-# 一款情侣情趣游戏，使用uniapp开发 #
+# 一款情侣情趣甜蜜游戏，使用uniapp开发 #
 # 已上架微信小程序可扫码体验 #
 ![WechatIMG236](https://github.com/user-attachments/assets/05ce7b49-e468-4019-84ce-1637252fe0ea)
 
